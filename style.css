@@ -29,7 +29,8 @@ h1 {
 }
 
 #counter {
-  font-weight: bold;
+  font-weight: bolder;
+  color: #ffffff;
 }
 
 .btn {
